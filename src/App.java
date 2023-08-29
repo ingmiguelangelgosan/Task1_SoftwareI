@@ -4,7 +4,7 @@ import model.Folder;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        // /home/sirmiguel/Documentos/Universidad/VII Semestre/Ing de SoftwareI/POO/Tarea 1/CountWords/Tests/pruebas1
+        // /home/sirmiguel/Documentos/Universidad/VII Semestre/Ing de Software I/POO/Tarea 1/CountWords/Tests/pruebas1
         // /home/sirmiguel/Documentos/Universidad/VII Semestre/Ing de Software I/POO/Tarea 1/CountWords/Tests/pruebas2
         // /home/sirmiguel/Documentos/Universidad/VII Semestre/Ing de Software I/POO/Tarea 1/CountWords/Tests/pruebas3
 
